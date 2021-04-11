@@ -2,9 +2,9 @@ namespace Dealership.Models
 {
   public class Car
   {
-    public string MakeModel;
-    public int Price;
-    public int Miles;
+    public string MakeModel { get; set; }
+    public int Price { get; set; }
+    public int Miles { get; set; }
 
     public Car(string makeModel, int price, int miles)
     {
@@ -17,5 +17,11 @@ namespace Dealership.Models
     {
       return (Price <= maxPrice);
     }
+
+    public static string MakeSound (string sound)
+    {
+      return "Our cars sound like " + sound;
+    }
+
   } 
 }
