@@ -14,7 +14,7 @@
 
 ## Description
 
-_In the hopes of get more familiar with C#, the authors followed along with some curriculum to build this very basic console application. It currently has the ability to list year, make, model, price, and mileage information for the eight plus cars that are hard-coded. Additional growth and/or maintainence of this repository are not extremely likely. Though the potentional for bells and/or whistles may be high._
+_In the hopes of getting more familiar with C#, the authors followed along with some curriculum to build this very basic console application. It currently has the ability to list year, make, model, price, and mileage information for the eight plus cars that are hard-coded. Additional growth and/or maintainence of this repository is/are not extremely likely. Though the potentional for bells and/or whistles may be high. Whistles mainly._
 
 ## Setup/Installation Requirements
 
